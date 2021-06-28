@@ -1,0 +1,21 @@
+body{
+    background-image: url("back-ground.jpeg");
+}
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
+#count-el{
+
+    text-align: center;
+    font-size:60px;
+}
+#increment-btn {
+    background-color: aqua;
+    font-size: 30px;
+    border-radius: 12px;
+    margin: auto;
+    display: block;
+
+    
+}
