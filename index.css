@@ -16,6 +16,13 @@ h1{
     border-radius: 12px;
     margin: auto;
     display: block;
-
-    
+  
+}
+#save-btn{
+    background-color: blue;
+    margin: auto;
+    display: block;
+    border-radius: 12px;
+    margin-top: 20px;
+    font-size: 30px;
 }
