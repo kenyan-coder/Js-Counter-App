@@ -1,9 +1,12 @@
 let count = 0;
-let countBtn= document.getElementById("count-el");
+let countEl= document.getElementById("count-el");
 
 function incrementCount(){
     // console.log("clicked")
     count = count+1;
-    countBtn.innerText=count;
+    countEl.innerText=count;
 }
-incrementCount();
+// 1. Create a function, save(), which logs out the count when it's called
+function save(){
+    console.log(count)
+}
