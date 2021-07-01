@@ -13,16 +13,19 @@ h1{
 #increment-btn {
     background-color: aqua;
     font-size: 30px;
-    border-radius: 12px;
+    border-radius: 20px;
     margin: auto;
+    cursor: pointer;
     display: block;
   
 }
 #save-btn{
     background-color: blue;
+    cursor: pointer;
     margin: auto;
     display: block;
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 10px 30px;
     margin-top: 20px;
     font-size: 30px;
 }
